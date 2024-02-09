@@ -2,9 +2,9 @@
 <AssetPackage Version="0.1.0">
 	<ItemSettings>
 		<ContentType>MISSION</ContentType>
-		<Title>Simple Mission</Title>
+		<Title>Simple Mission Denmark</Title>
 		<Manufacturer/>
-		<Creator>Jayshrike</Creator>
+		<Creator>Peter Holm</Creator>
 	</ItemSettings>
 	<Flags>
 		<VisibleInStore>false</VisibleInStore>
@@ -16,24 +16,24 @@
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageDefinitions\jayshrike-mission-simple\ContentInfo\</AssetDir>
-			<OutputDir>ContentInfo\jayshrike-mission-simple\</OutputDir>
+			<AssetDir>PackageDefinitions\holmsit-mission-simpledenmark\ContentInfo</AssetDir>
+			<OutputDir>ContentInfo\holmsit-mission-simpledenmark</OutputDir>
 		</AssetGroup>
-		<AssetGroup Name="SimpleMission">
+		<AssetGroup Name="SimpleMissionDenmark">
 			<Type>Mission</Type>
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageSources\Missions\mission-simple\SimpleMission\</AssetDir>
-			<OutputDir>Missions\SimpleMission\</OutputDir>
+			<AssetDir>PackageSources\Missions\mission-simpledenmark\SimpleMissionDenmark\</AssetDir>
+			<OutputDir>Missions\SimpleMissionDenmark\</OutputDir>
 		</AssetGroup>
-		<AssetGroup Name="SimpleMission-Localization">
+		<AssetGroup Name="SimpleMissionDenmark-Localization">
 			<Type>Localization</Type>
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
 			<AssetDir>PackageSources\Localization\</AssetDir>
-			<OutputDir>Localization\mission-simple\SimpleMission-Localization\</OutputDir>
+			<OutputDir>Localization\mission-simpledenmark\SimpleMissionDenmark-Localization\</OutputDir>
 		</AssetGroup>
 	</AssetGroups>
 </AssetPackage>

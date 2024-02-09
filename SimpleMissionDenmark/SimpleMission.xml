@@ -4,7 +4,7 @@
 	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
 	<PublishingGroupTemporaryOutputDirectory>_PublishingGroupInt</PublishingGroupTemporaryOutputDirectory>
 	<Packages>
-		<Package>PackageDefinitions\jayshrike-mission-simple.xml</Package>
+		<Package>PackageDefinitions\holmsit-mission-simpledenmark.xml</Package>
 	</Packages>
 	<PublishingGroups/>
 </Project>
