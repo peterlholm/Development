@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Rotterdam to Lelystad</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>4500.000</CruisingAlt>
+        <DepartureID>EHRD</DepartureID>
+        <DepartureLLA>N51° 57' 21.33",E4° 26' 16.92",-000001.51</DepartureLLA>
+        <DestinationID>EHLE</DestinationID>
+        <DestinationLLA>N52° 27' 12.00",E5° 30' 50.00",+000000.00</DestinationLLA>
+        <Descr>Rotterdam to Lelystad</Descr>
+        <DeparturePosition>24</DeparturePosition>
+        <DepartureName>Rotterdam</DepartureName>
+        <DestinationName>Lelystad</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="EHRD">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N51° 57' 21.33",E4° 26' 16.92",-000001.51</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+            <ICAO>
+                <ICAOIdent>EHRD</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECLIMB">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N51° 56' 5.35",E4° 23' 5.66",+000585.50</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMECRUIS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N52° 9' 31.03",E4° 51' 57.93",+004500.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEDSCNT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N52° 12' 29.35",E4° 58' 25.82",+004500.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+        </ATCWaypoint>
+        <ATCWaypoint id="TIMEAPPROACH">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N52° 29' 32.15",E5° 35' 4.63",+000700.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+        </ATCWaypoint>
+        <ATCWaypoint id="EHLE">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N52° 27' 12.00",E5° 30' 50.00",+000000.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+            <ICAO>
+                <ICAOIdent>EHLE</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>
