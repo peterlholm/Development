@@ -16,8 +16,8 @@
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageDefinitions\holmsit-mission-simpledenmark\ContentInfo</AssetDir>
-			<OutputDir>ContentInfo\holmsit-mission-simpledenmark</OutputDir>
+			<AssetDir>PackageDefinitions\holmsit-mission-simpledenmark\ContentInfo\</AssetDir>
+			<OutputDir>ContentInfo\holmsit-mission-simpledenmark\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="SimpleMissionDenmark">
 			<Type>Mission</Type>

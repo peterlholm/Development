@@ -26,10 +26,10 @@ FlightNumber=12
 AppendHeavy=False
 
 [ResourcePath]
-Path=SimpleMission
+Path=SimpleMissionDenmark
 
 [ObjectFile]
-File=SimpleMission
+File=SimpleMissionDenmark
 
 [Atc_Menu]
 Visible=True
@@ -158,7 +158,7 @@ NumberofAircraft=1
 FrequencyNodes=0
 
 [GPS_Engine]
-Filename=SimpleMission
+Filename=SimpleMissionDenmark
 position=N0° 0.02', E0° 0.84', +000005.98
 Time=-1
 TimeWP=52025
