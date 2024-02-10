@@ -76,7 +76,7 @@
                     <SuccessText>Success</SuccessText>
                     <Steps>
                         <Step UniqueRefId="{91A8923F-5BAB-499C-80DA-FB40C432BA9A}" id="SGL_80Kts">
-                            <Descr>@jayshrike-mission-simple,TT:SIMPLEMISSION.SGL_80KTS</Descr>
+                            <Descr>TT:SIMPLEMISSION.SGL_80KTS</Descr>
                         </Step>
                     </Steps>
                 </Objective>
