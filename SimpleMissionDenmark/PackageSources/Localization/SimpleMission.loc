@@ -13,7 +13,7 @@
         "LocalizationStatus": "Active",
         "Languages": {
           "en-US": {
-            "Text": "This is a loading tip.",
+            "Text": "This is a loading tip 000.",
             "LocalizationStatus": "TranslationOk",
             "LastModifiedDate": "2023-05-16 20:07:25"
           }
@@ -26,7 +26,7 @@
         "LocalizationStatus": "Active",
         "Languages": {
           "en-US": {
-            "Text": "This is another loading tip.",
+            "Text": "This is another loading tip. 001",
             "LocalizationStatus": "TranslationOk",
             "LastModifiedDate": "2023-05-16 20:07:25"
           }
@@ -39,7 +39,7 @@
         "LocalizationStatus": "Active",
         "Languages": {
           "en-US": {
-            "Text": "The loading tips will be played in random order.",
+            "Text": "The loading tips will be played in random order. 002",
             "LocalizationStatus": "TranslationOk",
             "LastModifiedDate": "2023-05-16 20:07:25"
           }
@@ -52,7 +52,7 @@
         "LocalizationStatus": "Active",
         "Languages": {
           "en-US": {
-            "Text": "This is the briefing.",
+            "Text": "Dette er briefing til min mission.",
             "LocalizationStatus": "TranslationOk",
             "LastModifiedDate": "2023-05-16 20:07:25"
           }
