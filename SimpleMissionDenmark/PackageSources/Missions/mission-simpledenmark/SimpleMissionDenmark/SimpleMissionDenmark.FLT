@@ -1,10 +1,13 @@
 
 [Main]
-Title=TT:SIMPLEMISSION.TITLE
-Description=TT:SIMPLEMISSION.DESCR
+;Title=TT:SIMPLEMISSION.TITLE
+Title=Dette er min tittle
+;Description=TT:SIMPLEMISSION.DESCR
+Description=En simpel beskrivelse
 AppVersion=10.0.61355
 FlightVersion=1
-MissionType=Story Mission
+;MissionType=Story Mission
+MissionType=BushTrip
 StartingCameraCategory=Cockpit
 
 [Options]
@@ -68,6 +71,7 @@ Tips3=Dette er tip3
 BriefingText=TT:SIMPLEMISSION.BRIEFING
 ;BriefingImage0=./images/SimpleMission_Briefing.png
 BriefingImage0=./images/pic2b.png
+BriefingImage1=./images/pic1b.png
 
 [TrafficOptions]
 AllowAbientVehicleTraffic=FALSE
