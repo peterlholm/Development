@@ -20,7 +20,10 @@ SlewDisplayPage=1
 AxisIndicator=Off
 
 [Sim.0]
-Sim=TBM 930 Asobo
+;Sim=TBM 930 Asobo
+;Sim=Cessna Skyhawk G1000 Asobo
+Sim=Cessna 152 Asobo
+
 Pilot=Default
 Copilot=Default
 TailNumber=N-59781
